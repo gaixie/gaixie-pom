@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.gaixie</groupId>
   <artifactId>gaixie</artifactId>
-  <version>1-SNAPSHOT</version>
+  <version>1</version>
   <name>Gaixie</name>
   <packaging>pom</packaging>
 
-  <description>Root POM for all projects in Gaixie.ORG.</description>
+  <description>Gaixie.ORG is an open source community.</description>
 
   <organization>
     <name>Gaixie.ORG</name>
@@ -43,9 +43,9 @@
   </distributionManagement>
 
   <scm>
-    <connection>scm:svn:http://gaixie.googlecode.com/svn/trunk/</connection>
-    <developerConnection>scm:svn:https://gaixie.googlecode.com/svn/trunk/</developerConnection>
-    <url>http://code.google.com/p/gaixie/source/browse/</url>
+    <connection>scm:svn:http://gaixie.googlecode.com/svn/tags/gaixie-1</connection>
+    <developerConnection>scm:svn:https://gaixie.googlecode.com/svn/tags/gaixie-1</developerConnection>
+    <url>http://code.google.com/p/gaixie/source/browse/tags/gaixie-1</url>
   </scm>
 
   <profiles>
