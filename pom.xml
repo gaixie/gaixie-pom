@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.gaixie</groupId>
   <artifactId>gaixie</artifactId>
-  <version>1</version>
+  <version>2-SNAPSHOT</version>
   <name>Gaixie</name>
   <packaging>pom</packaging>
 
@@ -43,9 +43,9 @@
   </distributionManagement>
 
   <scm>
-    <connection>scm:svn:http://gaixie.googlecode.com/svn/tags/gaixie-1</connection>
-    <developerConnection>scm:svn:https://gaixie.googlecode.com/svn/tags/gaixie-1</developerConnection>
-    <url>http://code.google.com/p/gaixie/source/browse/tags/gaixie-1</url>
+    <connection>scm:svn:http://gaixie.googlecode.com/svn/trunk/</connection>
+    <developerConnection>scm:svn:https://gaixie.googlecode.com/svn/trunk/</developerConnection>
+    <url>http://code.google.com/p/gaixie/source/browse/</url>
   </scm>
 
   <profiles>
