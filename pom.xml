@@ -43,9 +43,9 @@
   </distributionManagement>
 
   <scm>
-    <connection>scm:svn:http://gaixie.googlecode.com/svn/trunk/</connection>
-    <developerConnection>scm:svn:https://gaixie.googlecode.com/svn/trunk/</developerConnection>
-    <url>http://code.google.com/p/gaixie/source/browse/</url>
+    <connection>scm:git:ssh://git@github.com/bitorb/gaixie.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/bitorb/gaixie.git</developerConnection>
+    <url>http://github.com/bitorb/gaixie.git</url>
   </scm>
 
   <profiles>
