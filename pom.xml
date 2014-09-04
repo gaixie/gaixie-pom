@@ -43,9 +43,10 @@
   </distributionManagement>
 
   <scm>
-    <connection>scm:git:ssh://git@github.com/bitorb/gaixie.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/bitorb/gaixie.git</developerConnection>
-    <url>http://github.com/bitorb/gaixie.git</url>
+    <connection>scm:git:ssh://git@github.com/gaixie/gaixie-pom.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/gaixie/gaixie-pom.git</developerConnection>
+    <url>http://github.com/gaixie/gaixie-pom.git</url>
+    <tag>HEAD</tag>
   </scm>
 
   <profiles>
